@@ -52,4 +52,5 @@ El sistema ofrece diversas funcionalidades, incluyendo la gestión de alumnos, a
 
 ## Contacto
 
-Para cualquier duda o consulta sobre el proyecto, por favor contacta a [tu correo electrónico].
+Para cualquier duda o consulta sobre el proyecto, por favor contacta a 72504407@continental.edu.pe
+.
