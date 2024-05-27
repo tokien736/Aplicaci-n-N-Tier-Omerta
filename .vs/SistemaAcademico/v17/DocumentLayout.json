@@ -1,0 +1,462 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\jose-pc\\downloads\\nueva carpeta (23)\\nueva carpeta (2)\\aplicaci-n-n-tier-main\\capapresentacion\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\jose-pc\\downloads\\nueva carpeta (23)\\nueva carpeta (2)\\aplicaci-n-n-tier-main\\capapresentacion\\frmsistemadocente.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmsistemadocente.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\jose-pc\\downloads\\nueva carpeta (23)\\nueva carpeta (2)\\aplicaci-n-n-tier-main\\capapresentacion\\frmsistemadocente.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmsistemadocente.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\jose-pc\\downloads\\nueva carpeta (23)\\nueva carpeta (2)\\aplicaci-n-n-tier-main\\capapresentacion\\frmsistemaalumno.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmsistemaalumno.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\jose-pc\\downloads\\nueva carpeta (23)\\nueva carpeta (2)\\aplicaci-n-n-tier-main\\capapresentacion\\frmsistemaalumno.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmsistemaalumno.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\jose-pc\\downloads\\nueva carpeta (23)\\nueva carpeta (2)\\aplicaci-n-n-tier-main\\capapresentacion\\frmsistemaadministracion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmsistemaadministracion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\jose-pc\\downloads\\nueva carpeta (23)\\nueva carpeta (2)\\aplicaci-n-n-tier-main\\capapresentacion\\frmsistemaadministracion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmsistemaadministracion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\jose-pc\\downloads\\nueva carpeta (23)\\nueva carpeta (2)\\aplicaci-n-n-tier-main\\capapresentacion\\frmlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\jose-pc\\downloads\\nueva carpeta (23)\\nueva carpeta (2)\\aplicaci-n-n-tier-main\\capapresentacion\\frmlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\capapresentacion\\frmdocente.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmdocente.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\capapresentacion\\frmdocente.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmdocente.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\capapresentacion\\frmasignatura.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmasignatura.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\capapresentacion\\frmasignatura.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmasignatura.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\jose-pc\\downloads\\nueva carpeta (23)\\nueva carpeta (2)\\aplicaci-n-n-tier-main\\capapresentacion\\frmalumno.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmalumno.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\jose-pc\\downloads\\nueva carpeta (23)\\nueva carpeta (2)\\aplicaci-n-n-tier-main\\capapresentacion\\frmalumno.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmalumno.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B65B51-90D7-48E4-A18D-DEA9C9558EB5}|CapaNegocio\\CapaNegocio.csproj|c:\\users\\jose-pc\\downloads\\nueva carpeta (23)\\nueva carpeta (2)\\aplicaci-n-n-tier-main\\capanegocio\\usuariobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B65B51-90D7-48E4-A18D-DEA9C9558EB5}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\usuariobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B65B51-90D7-48E4-A18D-DEA9C9558EB5}|CapaNegocio\\CapaNegocio.csproj|c:\\users\\jose-pc\\downloads\\nueva carpeta (23)\\nueva carpeta (2)\\aplicaci-n-n-tier-main\\capanegocio\\docentebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B65B51-90D7-48E4-A18D-DEA9C9558EB5}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\docentebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B65B51-90D7-48E4-A18D-DEA9C9558EB5}|CapaNegocio\\CapaNegocio.csproj|c:\\users\\jose-pc\\downloads\\nueva carpeta (23)\\nueva carpeta (2)\\aplicaci-n-n-tier-main\\capanegocio\\asignaturabl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B65B51-90D7-48E4-A18D-DEA9C9558EB5}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\asignaturabl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B65B51-90D7-48E4-A18D-DEA9C9558EB5}|CapaNegocio\\CapaNegocio.csproj|c:\\users\\jose-pc\\downloads\\nueva carpeta (23)\\nueva carpeta (2)\\aplicaci-n-n-tier-main\\capanegocio\\interface\\iusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B65B51-90D7-48E4-A18D-DEA9C9558EB5}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\interface\\iusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B65B51-90D7-48E4-A18D-DEA9C9558EB5}|CapaNegocio\\CapaNegocio.csproj|c:\\users\\jose-pc\\downloads\\nueva carpeta (23)\\nueva carpeta (2)\\aplicaci-n-n-tier-main\\capanegocio\\interface\\idocente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B65B51-90D7-48E4-A18D-DEA9C9558EB5}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\interface\\idocente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B65B51-90D7-48E4-A18D-DEA9C9558EB5}|CapaNegocio\\CapaNegocio.csproj|c:\\users\\jose-pc\\downloads\\nueva carpeta (23)\\nueva carpeta (2)\\aplicaci-n-n-tier-main\\capanegocio\\interface\\ialumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B65B51-90D7-48E4-A18D-DEA9C9558EB5}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\interface\\ialumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06B4F96-C75B-4716-8507-170BEC7C5698}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\jose-pc\\downloads\\nueva carpeta (23)\\nueva carpeta (2)\\aplicaci-n-n-tier-main\\capaentidad\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06B4F96-C75B-4716-8507-170BEC7C5698}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06B4F96-C75B-4716-8507-170BEC7C5698}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\jose-pc\\downloads\\nueva carpeta (23)\\nueva carpeta (2)\\aplicaci-n-n-tier-main\\capaentidad\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06B4F96-C75B-4716-8507-170BEC7C5698}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06B4F96-C75B-4716-8507-170BEC7C5698}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\jose-pc\\downloads\\nueva carpeta (23)\\nueva carpeta (2)\\aplicaci-n-n-tier-main\\capaentidad\\asignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06B4F96-C75B-4716-8507-170BEC7C5698}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\asignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06B4F96-C75B-4716-8507-170BEC7C5698}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\jose-pc\\downloads\\nueva carpeta (23)\\nueva carpeta (2)\\aplicaci-n-n-tier-main\\capaentidad\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06B4F96-C75B-4716-8507-170BEC7C5698}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D692C4-133B-4192-9CCE-BDB69591460E}|CapaServicio\\CapaServicio.csproj|c:\\users\\jose-pc\\downloads\\nueva carpeta (23)\\nueva carpeta (2)\\aplicaci-n-n-tier-main\\capaservicio\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A9D692C4-133B-4192-9CCE-BDB69591460E}|CapaServicio\\CapaServicio.csproj|solutionrelative:capaservicio\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmSistemaDocente.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaPresentacion\\frmSistemaDocente.aspx.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmSistemaDocente.aspx.cs",
+              "ToolTip": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaPresentacion\\frmSistemaDocente.aspx.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmSistemaDocente.aspx.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAwwG0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:20:17.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmSistemaAlumno.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaPresentacion\\frmSistemaAlumno.aspx.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmSistemaAlumno.aspx.cs",
+              "ToolTip": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaPresentacion\\frmSistemaAlumno.aspx.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmSistemaAlumno.aspx.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAowHsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:20:05.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmSistemaAlumno.aspx",
+              "DocumentMoniker": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaPresentacion\\frmSistemaAlumno.aspx",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmSistemaAlumno.aspx",
+              "ToolTip": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaPresentacion\\frmSistemaAlumno.aspx",
+              "RelativeToolTip": "CapaPresentacion\\frmSistemaAlumno.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-27T11:19:59.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaPresentacion\\Web.config",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Web.config",
+              "ToolTip": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaPresentacion\\Web.config",
+              "RelativeToolTip": "CapaPresentacion\\Web.config",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-27T10:55:20.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmSistemaAdministracion.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaPresentacion\\frmSistemaAdministracion.aspx.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmSistemaAdministracion.aspx.cs",
+              "ToolTip": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaPresentacion\\frmSistemaAdministracion.aspx.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmSistemaAdministracion.aspx.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwDIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:19:52.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmLogin.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaPresentacion\\frmLogin.aspx.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmLogin.aspx.cs",
+              "ToolTip": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaPresentacion\\frmLogin.aspx.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmLogin.aspx.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAwwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:19:42.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmSistemaDocente.aspx",
+              "DocumentMoniker": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaPresentacion\\frmSistemaDocente.aspx",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmSistemaDocente.aspx",
+              "ToolTip": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaPresentacion\\frmSistemaDocente.aspx",
+              "RelativeToolTip": "CapaPresentacion\\frmSistemaDocente.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-27T11:09:53.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmAsignatura.aspx",
+              "DocumentMoniker": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaPresentacion\\frmAsignatura.aspx",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmAsignatura.aspx",
+              "ToolTip": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaPresentacion\\frmAsignatura.aspx",
+              "RelativeToolTip": "CapaPresentacion\\frmAsignatura.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-27T10:23:41.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmAsignatura.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaPresentacion\\frmAsignatura.aspx.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmAsignatura.aspx.cs",
+              "ToolTip": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaPresentacion\\frmAsignatura.aspx.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmAsignatura.aspx.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAgwH4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T10:25:03.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmDocente.aspx",
+              "DocumentMoniker": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaPresentacion\\frmDocente.aspx",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmDocente.aspx",
+              "ToolTip": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaPresentacion\\frmDocente.aspx",
+              "RelativeToolTip": "CapaPresentacion\\frmDocente.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-27T10:29:28.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmDocente.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaPresentacion\\frmDocente.aspx.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmDocente.aspx.cs",
+              "ToolTip": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaPresentacion\\frmDocente.aspx.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmDocente.aspx.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAgwJsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T10:29:37.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmSistemaAdministracion.aspx",
+              "DocumentMoniker": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaPresentacion\\frmSistemaAdministracion.aspx",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmSistemaAdministracion.aspx",
+              "ToolTip": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaPresentacion\\frmSistemaAdministracion.aspx",
+              "RelativeToolTip": "CapaPresentacion\\frmSistemaAdministracion.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-27T11:08:37.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmAlumno.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaPresentacion\\frmAlumno.aspx.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmAlumno.aspx.cs",
+              "ToolTip": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaPresentacion\\frmAlumno.aspx.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmAlumno.aspx.cs",
+              "ViewState": "AQIAAM8AAAAAAAAAAAAowOQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:19:03.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmLogin.aspx",
+              "DocumentMoniker": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaPresentacion\\frmLogin.aspx",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmLogin.aspx",
+              "ToolTip": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaPresentacion\\frmLogin.aspx",
+              "RelativeToolTip": "CapaPresentacion\\frmLogin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-27T11:11:12.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UsuarioBL.cs",
+              "DocumentMoniker": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaNegocio\\UsuarioBL.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\UsuarioBL.cs",
+              "ToolTip": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaNegocio\\UsuarioBL.cs",
+              "RelativeToolTip": "CapaNegocio\\UsuarioBL.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:18:20.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DocenteBL.cs",
+              "DocumentMoniker": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaNegocio\\DocenteBL.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\DocenteBL.cs",
+              "ToolTip": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaNegocio\\DocenteBL.cs",
+              "RelativeToolTip": "CapaNegocio\\DocenteBL.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAAEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:18:16.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AsignaturaBL.cs",
+              "DocumentMoniker": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaNegocio\\AsignaturaBL.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\AsignaturaBL.cs",
+              "ToolTip": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaNegocio\\AsignaturaBL.cs",
+              "RelativeToolTip": "CapaNegocio\\AsignaturaBL.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAowHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:18:11.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaNegocio\\Interface\\IUsuario.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\Interface\\IUsuario.cs",
+              "ToolTip": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaNegocio\\Interface\\IUsuario.cs",
+              "RelativeToolTip": "CapaNegocio\\Interface\\IUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:17:53.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IDocente.cs",
+              "DocumentMoniker": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaNegocio\\Interface\\IDocente.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\Interface\\IDocente.cs",
+              "ToolTip": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaNegocio\\Interface\\IDocente.cs",
+              "RelativeToolTip": "CapaNegocio\\Interface\\IDocente.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAswBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:17:47.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IAlumno.cs",
+              "DocumentMoniker": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaNegocio\\Interface\\IAlumno.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\Interface\\IAlumno.cs",
+              "ToolTip": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaNegocio\\Interface\\IAlumno.cs",
+              "RelativeToolTip": "CapaNegocio\\Interface\\IAlumno.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA3wBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:17:37.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaEntidad\\Usuario.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaEntidad\\Usuario.cs",
+              "RelativeToolTip": "CapaEntidad\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:17:21.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmAlumno.aspx",
+              "DocumentMoniker": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaPresentacion\\frmAlumno.aspx",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmAlumno.aspx",
+              "ToolTip": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaPresentacion\\frmAlumno.aspx",
+              "RelativeToolTip": "CapaPresentacion\\frmAlumno.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-27T11:14:41.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Docente.cs",
+              "DocumentMoniker": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaEntidad\\Docente.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\Docente.cs",
+              "ToolTip": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaEntidad\\Docente.cs",
+              "RelativeToolTip": "CapaEntidad\\Docente.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:17:17.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Asignatura.cs",
+              "DocumentMoniker": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaEntidad\\Asignatura.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\Asignatura.cs",
+              "ToolTip": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaEntidad\\Asignatura.cs",
+              "RelativeToolTip": "CapaEntidad\\Asignatura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:17:12.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaEntidad\\Alumno.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\Alumno.cs",
+              "ToolTip": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaEntidad\\Alumno.cs",
+              "RelativeToolTip": "CapaEntidad\\Alumno.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvxMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:17:07.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaServicio\\Web.config",
+              "RelativeDocumentMoniker": "CapaServicio\\Web.config",
+              "ToolTip": "C:\\Users\\Jose-PC\\Downloads\\Nueva carpeta (23)\\Nueva carpeta (2)\\Aplicaci-n-N-Tier-main\\CapaServicio\\Web.config",
+              "RelativeToolTip": "CapaServicio\\Web.config",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-27T11:08:04.273Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
